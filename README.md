@@ -14,6 +14,9 @@
 
 - ⚡ Fun fact **I love Development and Gaming**
 
+
+![giphy](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/0a1eeebc-b791-4dc8-8663-a1af85d6c54a)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saleem talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleem talha" height="30" width="40" /></a>

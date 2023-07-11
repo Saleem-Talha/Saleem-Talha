@@ -1,3 +1,4 @@
+<img src="![2a53651a35816f499270d8275fd5318f](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/b0c56ae6-a940-4d71-9554-4105b340b02a)" alt="Gif" align="center" >
 <h1 align="center">Hi 👋, I'm Saleem Talha</h1>
 <h3 align="center">Highly motivated and skilled software developer with a strong background in Flutter, Dart, C++, C, Java, Assembly Language, SQL, Firebase, and MongoDB. Seeking a challenging position to utilize my technical skills and contribute to the development of innovative software solutions</h3>
 

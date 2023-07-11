@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saleem Talha</h1>
 <h3 align="center">Highly motivated and skilled software developer with a strong background in Flutter, Dart, C++, C, Java, Assembly Language, SQL, Firebase, and MongoDB. Seeking a challenging position to utilize my technical skills and contribute to the development of innovative software solutions</h3>
-<img src="![2a53651a35816f499270d8275fd5318f](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/34dded83-2adc-4714-accb-3406d225fdef)" alt="Image Description" align="center" width="400"> 
+![2a53651a35816f499270d8275fd5318f](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/34dded83-2adc-4714-accb-3406d225fdef) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleem-talha&label=Profile%20views&color=0e75b6&style=flat" alt="saleem-talha" /> </p>
 

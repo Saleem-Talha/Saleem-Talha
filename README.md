@@ -1,4 +1,5 @@
-![Learn-Coding-in-a-Fun-Way-on-These-7-Platforms](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/434e473f-86ac-4f0a-9ece-9a1d0cf997af)
+![New Tag](https://github.com/anilasalman85/anilasalman85/assets/121040503/c99e6254-f66e-44a3-84dd-a01dfea9536f)
+
 <h1 align="center">Hi 👋, I'm Saleem Talha</h1>
 <h3 align="center">Highly motivated and skilled software developer with a strong background in Flutter, Dart, C++, C, Java, Assembly Language, SQL, Firebase, and MongoDB. Seeking a challenging position to utilize my technical skills and contribute to the development of innovative software solutions</h3>
 

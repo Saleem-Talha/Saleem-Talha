@@ -4,20 +4,23 @@
 ![New Tag 1](https://github.com/anilasalman85/anilasalman85/assets/121040503/6a81e110-3c7b-4e82-908d-8b95d8ac8797)
 
 <h1 align="center">Hi 👋, I'm Saleem Talha</h1>
-<h3 align="center">Highly motivated and skilled software developer with a strong background in Flutter, Dart, C++, C, Java, Assembly Language, SQL, Firebase, and MongoDB. Seeking a challenging position to utilize my technical skills and contribute to the development of innovative software solutions</h3>
+<h4 align="left">I am a highly motivated and skilled software developer with a strong background in Flutter, Dart, C++, C, Java, Assembly Language, SQL, Firebase, and MongoDB. I am also a graphic designer with skills in Figma, Canva, and Framer. I am seeking a challenging position to utilize my technical skills and contribute to the development of innovative software solutions.
+
+</h4>
+<h4 align="left">I have a proven track record of success in developing high-quality software applications. I am proficient in all phases of the software development lifecycle, from requirements gathering and analysis to design, implementation, testing, and deployment. I am also experienced in working with a variety of technologies and platforms.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleem-talha&label=Profile%20views&color=0e75b6&style=flat" alt="saleem-talha" /> </p>
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [Work In Progress](Work In Progress)
+
 
 - 📫 How to reach me **saleemtalha967@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/17Rcmpt6tM4jGozMtsDLaWYczUYV8Gfes/view?usp=sharing)
 
 - ⚡ Fun fact **I love Development and Gaming**
-- 
+  
 
 ![giphy](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/0a1eeebc-b791-4dc8-8663-a1af85d6c54a)
 

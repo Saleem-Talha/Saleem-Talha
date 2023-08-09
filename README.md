@@ -1,7 +1,6 @@
+![Me](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/e0be1095-e01c-461c-a731-cc75331f3d5a)
 
 
-
-![New Tag 1](https://github.com/anilasalman85/anilasalman85/assets/121040503/6a81e110-3c7b-4e82-908d-8b95d8ac8797)
 
 <h1 align="center">Hi 👋, I'm Saleem Talha</h1>
 <h4 align="left">I am a highly motivated and skilled software developer with a strong background in Flutter, Dart, C++, C, Java, Assembly Language, SQL, Firebase, and MongoDB. I am also a graphic designer with skills in Figma, Canva, and Framer. I am seeking a challenging position to utilize my technical skills and contribute to the development of innovative software solutions.

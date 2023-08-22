@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleem-talha&label=Profile%20views&color=0e75b6&style=flat" alt="saleem-talha" /> </p>
 
-- 📄 My Portfolio [Saleem Talha](https://www.figma.com/proto/eOx9tSKw0lLwfPCgfA1KwV/My-Portfolio?page-id=10%3A83&type=design&node-id=10-84&viewport=851%2C193%2C0.24&t=7JxFednE2tuDq5Zs-1&scaling=min-zoom&starting-point-node-id=10%3A84&hide-ui=1)
+- 📄 My Portfolio [Saleem Talha](https://saleemtalhaportfolio.netlify.app/)
 
 
 

@@ -20,8 +20,7 @@
 
 - 📫 How to reach me **saleemtalha967@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/17Rcmpt6tM4jGozMtsDLaWYczUYV8Gfes/view?usp=sharing)
-
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1j0zs4pDJBRp0-2Omqm4_w4HpL5DEuwGC/view?usp=sharing)
 - ⚡ Fun fact **I love Development and Gaming**
   
 

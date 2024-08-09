@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleem-talha&label=Profile%20views&color=0e75b6&style=flat" alt="saleem-talha" /> </p>
 
-- 📄 My Portfolio [Saleem Talha](https://saleemtalhaportfolio2.netlify.app/)
+- 📄 My Portfolio [Saleem Talha](https://saleemtalha.free.nf/)
 
 
 

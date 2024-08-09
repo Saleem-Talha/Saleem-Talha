@@ -1,4 +1,4 @@
-![Me](![Banner](https://github.com/user-attachments/assets/7b957506-8396-4066-bf00-63453b518463)
+![Banner](https://github.com/user-attachments/assets/7b957506-8396-4066-bf00-63453b518463)
 
 
 

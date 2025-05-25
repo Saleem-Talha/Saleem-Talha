@@ -1,41 +1,121 @@
-![Banner](https://github.com/user-attachments/assets/7b957506-8396-4066-bf00-63453b518463)
-
-
-
-<h1 align="center">Hi 👋, I'm Saleem Talha</h1>
-<h4 align="left">I am a highly motivated and skilled software developer with a strong background in Flutter, Dart, C++, C, Java, Assembly Language, SQL, Firebase, and MongoDB. I am also a graphic designer with skills in Figma, Canva, and Framer. I am seeking a challenging position to utilize my technical skills and contribute to the development of innovative software solutions.
-
-</h4>
-<h4 align="left">I have a proven track record of success in developing high-quality software applications. I am proficient in all phases of the software development lifecycle, from requirements gathering and analysis to design, implementation, testing, and deployment. I am also experienced in working with a variety of technologies and platforms.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saleem-talha&label=Profile%20views&color=0e75b6&style=flat" alt="saleem-talha" /> </p>
-
-- 📄 My Portfolio [Saleem Talha](https://saleemtalhaportfolio.free.nf/)
-
-
-
-
-- 🌱 I’m currently learning **React Js**
-
-
-- 📫 How to reach me **saleemtalha967@gmail.com**
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1j0zs4pDJBRp0-2Omqm4_w4HpL5DEuwGC/view?usp=sharing)
-- ⚡ Fun fact **I love Development and Gaming**
-  
-
-![giphy](https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/0a1eeebc-b791-4dc8-8663-a1af85d6c54a)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saleem talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleem talha" height="30" width="40" /></a>
-<a href="https://instagram.com/______talha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="______talha_" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b957506-8396-4066-bf00-63453b518463" alt="Banner">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Saleem Talha</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saleem-talha&show_icons=true&locale=en&layout=compact" alt="saleem-talha" /></p>
+<h4 align="center">A Passionate Full-Stack Developer | React • Flutter • .NET • PHP • Node</h4>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saleem-talha&show_icons=true&locale=en" alt="saleem-talha" /></p>
+<p align="center">
+  <a href="mailto:saleemtalha967@gmail.com">📧 saleemtalha967@gmail.com</a> |
+  <a href="https://saleemtalhaportfolio.free.nf">🌐 Portfolio</a> |
+  <a href="https://linkedin.com/in/muhammad-saleem-talha">🔗 LinkedIn</a> |
+  <a href="https://github.com/Saleem-Talha">💻 GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saleem-talha&label=Profile%20views&color=0e75b6&style=flat" alt="saleem-talha" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I am a highly motivated and skilled software developer with expertise in **React, Flutter, .NET, PHP, and Node.js**, along with strong fundamentals in **C++, Java, Python**, and **Assembly Language**.
+
+With a passion for clean code and UI/UX, I also work as a **freelance web developer** and **graphic designer** skilled in **Figma, Canva, and Framer**.
+
+I’m currently working on:
+
+- 🧠 **Cognitive Campus** – a Final Year Project using LLM to enhance student productivity  
+- 🏡 **Dream Estate** – a real estate app with Google Maps & MongoDB  
+- 🛒 **SportsSphere** – an advanced sports e-commerce platform in ASP.NET Blazor  
+- 🛏 **Totsy.pk** – a bedsheet store developed for a client moving from Daraz  
+
+---
+
+### 🧑‍💼 Experience
+
+- **React Developer Intern** @ CodexCue *(Jun 2024 – Jul 2024)*  
+  ➤ Built **5 projects** (3 Basic, 1 Intermediate, 1 Advanced)  
+  ➤ Received **certificate** and **recommendation letter** for outstanding performance  
+
+- **Freelance Developer** @ Insolvo *(2023 – Present)*  
+  ➤ Delivered custom web solutions using React, PHP, Next.js, and Python for global clients  
+
+---
+
+### 🎓 Education
+
+- **BS Computer Science** — *Air University, Islamabad* (2021 – Present)  
+- **HSSC (ICS)** — *Steps College, Rawalpindi*  
+- **SSC (Computer Science)** — *Askari School & College*
+
+---
+
+### 🧪 Projects Highlight
+
+- 🔍 *Course Recommendation System* — Based on student behavior (Coursera)
+- 🎶 *Harmonic Hub Plus* — Flutter-based AI music player
+- 🧠 *Student Analytics* — Google Classroom integrated optimizer
+- 🌐 *Quantum Network Allocator* — Quantum simulation in Python
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages & DBs  
+`C++` `Dart` `JavaScript` `Python` `PHP` `C#` `SQL` `Firebase` `MongoDB` `Neo4j (Cypher)`
+
+#### 🧱 Frameworks / Libraries  
+`React` `Next.js` `Flutter` `ASP.NET` `Blazor` `Node.js` `Express`
+
+#### 🎨 Tools  
+`Tailwind` `Bootstrap` `Shadcn` `Postman` `Packet Tracer` `Photoshop` `Figma` `Framer`
+
+---
+
+### 🏆 Certifications
+
+- ✅ **React Development** – CodexCue Internship  
+- ✅ **Web Development Internship** – Bharat Intern  
+- ✅ **Recommendation Letter** – CodexCue  
+- ✅ Python for Data Science, AI & Development  
+- ✅ React Basics – Meta  
+- ✅ Programming Foundations with JavaScript, HTML, CSS  
+
+---
+
+### 📫 Contact Me
+
+- 📧 **Email**: saleemtalha967@gmail.com  
+- 🔗 **LinkedIn**: [muhammad-saleem-talha](https://linkedin.com/in/muhammad-saleem-talha)  
+- 🌐 **Portfolio**: [saleemtalhaportfolio.free.nf](https://saleemtalhaportfolio.free.nf)  
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saleem-talha&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+    </td>
+    <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saleem-Talha&theme=light" alt="GitHub Streak" />
+</td>
+
+  </tr>
+</table>
+
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saleem-Talha&theme=blue-green" alt="Trophies" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github.com/Saleem-Talha/Saleem-Talha/assets/121040503/0a1eeebc-b791-4dc8-8663-a1af85d6c54a" alt="Let's Code Together GIF" />
+</p>

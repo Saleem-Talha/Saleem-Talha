@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:saleemtalha967@gmail.com">saleemtalha967@gmail.com</a> |
-  <a href="https://saleemtalhaportfolio.free.nf">Portfolio</a> |
+  <a href="https://new-portfolio-chi-gilt.vercel.app/">Portfolio</a> |
   <a href="https://linkedin.com/in/muhammad-saleem-talha">LinkedIn</a> |
   <a href="tel:+92-316-8426291">+92-316-8426291</a>
 </p>

@@ -158,7 +158,7 @@ My technical portfolio encompasses **machine learning applications**, **AI-power
 
 **Email:** saleemtalha967@gmail.com  
 **Phone:** +92-316-8426291  
-**Portfolio:** [saleemtalhaportfolio.free.nf](https://saleemtalhaportfolio.free.nf)  
+**Portfolio:** [Click Here](https://new-portfolio-chi-gilt.vercel.app/)  
 **LinkedIn:** [muhammad-saleem-talha](https://linkedin.com/in/muhammad-saleem-talha)  
 **GitHub:** [Saleem-Talha](https://github.com/Saleem-Talha)
 

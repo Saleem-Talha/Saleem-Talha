@@ -37,15 +37,19 @@ My technical portfolio encompasses **machine learning applications**, **AI-power
 
 ## Professional Experience
 
-**React Development Intern** | *Codex Cue Solutions* | June 2024 – July 2024
-- Completed five comprehensive projects across basic, intermediate, and advanced levels
-- Received completion certificate and recommendation letter for outstanding performance
+**Next.js Intern** | *ChatterLabs (On-site)* | August 2025 – Present  
+- Working and contributing to a product being developed for a U.S. company
+
+**React Development Intern** | *Codex Cue Solutions* | June 2024 – July 2024  
+- Completed five comprehensive projects across basic, intermediate, and advanced levels  
+- Received completion certificate and recommendation letter for outstanding performance  
 - Gained hands-on experience with modern React development practices and project lifecycle management
 
-**Freelance Developer** | *Insolvo Platform* | 2023 – Present
-- Delivered custom web solutions for international clients using React, Next.js, PHP, and Python
-- Collaborated in team environments to build scalable applications meeting diverse client requirements
+**Freelance Developer** | *Insolvo Platform* | 2023 – Present  
+- Delivered custom web solutions for international clients using React, Next.js, PHP, and Python  
+- Collaborated in team environments to build scalable applications meeting diverse client requirements  
 - Maintained high client satisfaction through effective communication and timely project delivery
+
 
 ---
 

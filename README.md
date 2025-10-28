@@ -10,7 +10,7 @@
   <a href="https://new-portfolio-chi-gilt.vercel.app/">portfolio</a> |
   <a href="https://linkedin.com/in/muhammad-saleem-talha">linkedIn</a> |
   <a href="https://drive.google.com/file/d/15OD8jyuuv_1D9T25dGywlwd6xEZIeWai/view">resume</a> |
-  <a href="tel:+92-316-8426291">+92-316-8426291</a>
+  <a href="tel:+92-316-8426291">+92 316 c8426291</a>
 </p>
 
 <p align="center">

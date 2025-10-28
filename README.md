@@ -7,8 +7,9 @@
 
 <p align="center">
   <a href="mailto:saleemtalha967@gmail.com">saleemtalha967@gmail.com</a> |
-  <a href="https://new-portfolio-chi-gilt.vercel.app/">Portfolio</a> |
-  <a href="https://linkedin.com/in/muhammad-saleem-talha">LinkedIn</a> |
+  <a href="https://new-portfolio-chi-gilt.vercel.app/">portfolio</a> |
+  <a href="https://linkedin.com/in/muhammad-saleem-talha">linkedIn</a> |
+  <a href="https://drive.google.com/file/d/15OD8jyuuv_1D9T25dGywlwd6xEZIeWai/view">resume</a> |
   <a href="tel:+92-316-8426291">+92-316-8426291</a>
 </p>
 
@@ -119,19 +120,39 @@ My technical portfolio encompasses **machine learning applications**, **AI-power
 
 ## Professional Certifications
 
-**React Development Internship Certificate** | *Codex Cue Solutions* | [Click here to view](https://drive.google.com/file/d/1LYniVu0-SIFiUU4fl0iYauuteLecp6Ot/view?usp=drive_link)
+- **React Development – Internship**  
+  [Completion Letter](https://drive.google.com/file/d/1LYniVu0-SIFiUU4fl0iYauuteLecp6Ot/view?usp=sharing) — *by Codex Cue Solutions*
 
-**Professional Recommendation Letter** | *Codex Cue Solutions* | [Click here to view](https://drive.google.com/file/d/1r88mklOsR2f_dYsmCpBKaO6uF0DZjpOr/view?usp=drive_link)
+- **Recommendation Letter**  
+  [Letter](https://drive.google.com/file/d/1r88mklOsR2f_dYsmCpBKaO6uF0DZjpOr/view?usp=sharing) — *by Codex Cue Solutions*
 
-**React Basics** | *Coursera* | [Click here to view](https://drive.google.com/file/d/1sPpPmS9SOSa59TwMVrl5KPsP6zOPkemw/view?usp=drive_link)
+- **React - A series of 2 courses**  
+  [Coursera (5HTC1ELYXYAR)](https://www.coursera.org/account/accomplishments/verify/5HTC1ELYXYAR) — *by Meta*
 
-**Python for Data Science, AI & Development** | *Coursera* | [Click here to view](https://drive.google.com/file/d/1n5VTPbUKdyv10tzw8eSKuhsv1DbNQ3Xl/view?usp=drive_link)
+- **Redux in JavaScript and React**  
+  [Coursera (0PXLY6BOWR0C)](https://www.coursera.org/account/accomplishments/verify/0PXLY6BOWR0C) — *by Scrimba*
 
-**Python 101** | *Coursera* | [Click here to view](https://drive.google.com/file/d/1IMCuA9d6lkheHcUzhXYeuYKWgNuHd9UH/view?usp=drive_link)
+- **Typscript - A series of 2 courses**  
+  [Coursera (J95JGNG49IS0)](https://www.coursera.org/account/accomplishments/verify/J95JGNG49IS0) — *by Scrimba*
 
-**Programming Foundations with JavaScript, HTML, CSS** | *Coursera* | [Click here to view](https://drive.google.com/file/d/1c4KNp8J7hafMe85BQm0Mzlya2UAh1Zrq/view?usp=drive_link)
+- **NextJS - A series of 2 courses**  
+  [Coursera (M63P58N14TD8)](https://www.coursera.org/account/accomplishments/verify/M63P58N14TD8) — *by Scrimba*
 
-**Relational Database Design** | *Coursera* | [Click here to view](https://drive.google.com/file/d/13iZwTm2hC0yFOGfJr4o_rTuaE79c82XM/view?usp=drive_link)
+- **Generative AI Leader Professional Certificate - A series of 5 courses**  
+  [Coursera (AIFY7GYJ77WS)](https://www.coursera.org/account/accomplishments/professional-cert/AIFY7GYJ77WS) — *by Google*
+
+- **Python for Data Science, AI & Development**  
+  [Coursera (AL6XGQMHI5OI)](https://www.coursera.org/account/accomplishments/verify/AL6XGQMHI5OI) — *by IBM*
+
+- **Python 101**  
+  [Coursera (2RS356KEUEZQ)](https://www.coursera.org/account/accomplishments/verify/2RS356KEUEZQ) — *by Coursera Project Network*
+
+- **Programming Foundations**  
+  [Coursera (SF99D6MXFG2D)](https://www.coursera.org/account/accomplishments/verify/SF99D6MXFG2D) — *by Duke University*
+
+- **Relational Database Design**  
+  [Coursera (2E2DKH92FZUC)](https://www.coursera.org/account/accomplishments/verify/2E2DKH92FZUC) — *by University of Colorado*
+
 
 ---
 
